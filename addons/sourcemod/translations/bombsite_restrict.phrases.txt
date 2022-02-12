@@ -1,0 +1,34 @@
+// Colors available for use in Chat || Cores disponíveis para usar no Chat
+// "{default}", "{darkred}", "{green}", "{lightgreen}", "{red}", "{blue}", "{olive}", "{lime}", "{lightred}", "{purple}", "{grey}", "{orange}", "{bluegrey}", "{lightblue}", "{darkblue}", "{grey2}", "{orchid}", "{lightred2}"
+
+"Phrases"
+{
+	"Bombsite A"
+	{
+		"en"		"Bombsite A"
+		"pt"		"}Bombsite A"
+		"pt_p"		"Bombsite A"
+	}
+
+	"Bombsite B"
+	{
+		"en"		"Bombsite B"
+		"pt"		"Bombsite B"
+		"pt_p"		"Bombsite B"
+	}
+	
+	"Cant plant on bombsite A"
+	{
+		"en"		"{darkred}You cannot {default}plant the {green}bomb {default}on bombsite {darkred}A{default}!"
+		"pt"		"{darkred}Não podes {default}Plantar a {green}Bomba {default}no Bombsite {darkred}A{default}!"
+		"pt_p"		"{darkred}Não podes {default}Plantar a {green}Bomba {default}no Bombsite {darkred}A{default}!"
+	}	
+
+	"Cant plant on bombsite B"
+	{
+		"en"		"{darkred}You cannot {default}plant the {green}bomb {default}on bombsite {darkred}B{default}!"
+		"pt"		"{darkred}Não podes {default}Plantar a {green}Bomba {default}no Bombsite {darkred}B{default}!"
+		"pt_p"		"{darkred}Não podes {default}Plantar a {green}Bomba {default}no Bombsite {darkred}B{default}!"
+	}	
+}
+

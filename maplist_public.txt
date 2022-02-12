@@ -1,0 +1,16 @@
+de_mirage
+de_nuke
+de_overpass
+de_ravine
+de_shortdust
+de_shortnuke
+de_train
+de_vertigo
+de_lake
+de_inferno
+de_dust2
+de_cache
+de_ancient
+cs_office
+cs_assault
+cs_italy
