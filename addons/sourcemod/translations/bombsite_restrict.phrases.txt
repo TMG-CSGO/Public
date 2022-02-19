@@ -5,16 +5,16 @@
 {
 	"Bombsite A"
 	{
-		"en"		"Bombsite A"
-		"pt"		"}Bombsite A"
-		"pt_p"		"Bombsite A"
+		"en"		"{darkred}Bombsite {green}A {default}Disable"
+		"pt"		"{darkred}Bombsite {green}A {default}Disable"
+		"pt_p"		"{darkred}Bombsite {green}A {default}Disable"
 	}
 
 	"Bombsite B"
 	{
-		"en"		"Bombsite B"
-		"pt"		"Bombsite B"
-		"pt_p"		"Bombsite B"
+		"en"		"{darkred}Bombsite {green}B {default}Disable"
+		"pt"		"{darkred}Bombsite {green}B {default}Disable"
+		"pt_p"		"{darkred}Bombsite {green}B {default}Disable"
 	}
 	
 	"Cant plant on bombsite A"
