@@ -1,0 +1,29 @@
+"Updater"
+{
+	"Information"
+	{
+		"Version"
+		{
+			"Latest"	"1.0.1"
+		}
+	}
+	"Files"
+	{
+		"Plugin"	"Path_SM/plugins/advadmin/antiblood.smx"
+		"Plugin"	"Path_SM/plugins/advadmin/automapchanger.smx"
+		"Plugin"	"Path_SM/plugins/advadmin/Bombsite_Restrict.smx"
+		"Plugin"	"Path_SM/plugins/advadmin/FastTeamBalance.smx"
+		"Plugin"	"Path_SM/plugins/advadmin/resetscore.smx"
+		"Plugin"	"Path_SM/plugins/advadmin/SimpleShowDamage.smx"
+		"Plugin"	"Path_SM/plugins/advadmin/weapon_restrict.smx"
+		"Plugin"	"Path_SM/plugins/advadmin/updater_pub.smx"
+		"Plugin"	"Path_SM/plugins/gamevoting.smx"
+
+		"Plugin"	"Path_SM/translations/bombsite_restrict.phrases.txt"
+		"Plugin"	"Path_SM/translations/fnemotes.phrases.txt"
+		"Plugin"	"Path_SM/translations/gamevoting.phrases.txt"
+		"Plugin"	"Path_SM/translations/resetscore.phrases.txt"
+		"Plugin"	"Path_SM/translations/Simple_Show_Damage.phrases.txt"
+		"Plugin"	"Path_SM/translations/WeaponRestrict.phrases.txt"
+	}
+}
