@@ -30,3 +30,7 @@ de_shortdust
 de_shortnuke
 de_stmarc
 de_sugarcane
+cs_climb
+de_hive
+de_iris
+de_crete
